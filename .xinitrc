@@ -13,5 +13,5 @@ xset -b
 unclutter --timeout 1 --jitter 1 --ignore-scrolling --fork --start-hidden
 xbindkeys
 setxkbmap -option caps:escape
-feh --bg-scale /home/krystian/Downloads/nature.jpg
+xrandr --output DP-4 --mode 3440x1440 --rate 180
 exec dwm
