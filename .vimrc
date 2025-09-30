@@ -1,0 +1,12 @@
+set background=dark
+colorscheme retrobox
+syntax on
+set number
+set autocomplete
+set hlsearch
+set wrap
+set mouse=a
+set incsearch
+set cursorline
+set ignorecase
+set expandtab
